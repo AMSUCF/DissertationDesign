@@ -80,7 +80,7 @@ Additional readings will be provided through Webcourses and will vary based on s
 |---|---|---|
 | 5 | **Academic Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | August 19 |
 | 10 | **Primary Reading List** - In consultation with their adviser and me, students will compile a custom reading list that provides a deep grounding in the primary field of their dissertation. | September 23 |
-| 51 | **Dissertation Pre-Proposal** - Students will write a 1-2 page pre-proposal explaining the problem, research question, research design, categories of literature, significance, and chapter outline for their proposed dissertation. | September 30 |
+| 15 | **Dissertation Pre-Proposal** - Students will write a 1-2 page pre-proposal explaining the problem, research question, research design, categories of literature, significance, and chapter outline for their proposed dissertation. | September 30 |
 | 15 | **Methods Section** - Students will write a draft of the methods section of their prospectus, clearly articulating the method, data, and analysis. | October 14 |
 | 15 | **Literature Review** - Students will submit a literature review that synthesizes the sources on their custom reading list. | November 4 |
 | 20 | **Prospectus Presentation** - Students will present their dissertation prospectus to the class, receiving feedback from peers and instructor. | November 18-25 |
