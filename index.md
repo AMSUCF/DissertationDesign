@@ -104,7 +104,7 @@ Students will need access to a reliable internet connection and computer for acc
 - Identifying gaps in the literature
 - Refining your research focus
 - **Reading:** Foss, Chapter 2
-- **Reading:** "Narrowing the Field: Tips on Choosing Your Topic." https://humcwl.sfsu.edu/narrowing-field-tips-choosing-your-topic
+- **Reading:** ["Narrowing the Field: Tips on Choosing Your Topic"](https://humcwl.sfsu.edu/narrowing-field-tips-choosing-your-topic)
 
 ### Week 3 (September 2): Research Methods Review
 - Overview of qualitative and quantitative methods
@@ -118,23 +118,23 @@ Students will need access to a reliable internet connection and computer for acc
 - Digital tools for organization and productivity
 - Setting milestones and deadlines
 - **Reading:** Foss, Chapter 4
-- **Reading:** Dissertation Calculator. University of Minnesota Libraries. https://www.lib.umn.edu/services/ac/dissertation-calculator
-- **Reading:** Santiago-Lopez, Angel. "Six Project-Management Tips for Your PhD." *Nature* 573 (7772): 153–153. https://doi.org/10.1038/d41586-018-07860-6
+- **Reading:** [Dissertation Calculator](https://www.lib.umn.edu/services/ac/dissertation-calculator). University of Minnesota Libraries
+- **Reading:** Santiago-Lopez, Angel. ["Six Project-Management Tips for Your PhD"](https://doi.org/10.1038/d41586-018-07860-6). *Nature* 573 (7772): 153–153
 
 ### Week 5 (September 16): Literature Review Fundamentals
 - Conducting comprehensive literature searches
 - Organizing and synthesizing sources
 - Writing effective literature reviews
 - **Reading:** Foss, Chapter 5
-- **Reading:** Burbules, Nicholas C. "The Changing Functions of Citation: From Knowledge Networking to Academic Cash-Value." *Paedagogica Historica* 51 (6): 716–26. https://doi.org/10.1080/00309230.2015.1051553
-- **Reading:** Taylor, Dena. "The Literature Review: A Few Tips On Conducting It." *Writing Advice*. https://advice.writing.utoronto.ca/types-of-writing/literature-review/
+- **Reading:** Burbules, Nicholas C. ["The Changing Functions of Citation: From Knowledge Networking to Academic Cash-Value"](https://doi.org/10.1080/00309230.2015.1051553). *Paedagogica Historica* 51 (6): 716–26
+- **Reading:** Taylor, Dena. ["The Literature Review: A Few Tips On Conducting It"](https://advice.writing.utoronto.ca/types-of-writing/literature-review/). *Writing Advice*
 
 ### Week 6 (September 23): The Pre-Proposal Workshop
 - Elements of a strong pre-proposal
 - Peer review and feedback
 - **Reading:** Foss, Chapter 6
-- **Reading:** VanBuren, Emily. "Path to the Prospectus." *Inside Higher Ed*. https://www.insidehighered.com/blogs/gradhacker/path-prospectus
-- **Reading:** Emory University Library. "General Guidelines for Dissertation Prospectus and Proposal." https://guides.libraries.emory.edu/ld.php?content_id=66438671
+- **Reading:** VanBuren, Emily. ["Path to the Prospectus"](https://www.insidehighered.com/blogs/gradhacker/path-prospectus). *Inside Higher Ed*
+- **Reading:** Emory University Library. ["General Guidelines for Dissertation Prospectus and Proposal"](https://guides.libraries.emory.edu/ld.php?content_id=66438671)
 - **Due: Primary Reading List**
 
 ### Week 7 (September 30): Methodology Deep Dive
@@ -142,7 +142,7 @@ Students will need access to a reliable internet connection and computer for acc
 - Data collection strategies
 - **Reading:** Foss, Chapter 7
 - **Reading:** Saldaña, Johnny. *The Coding Manual for Qualitative Researchers.* Fourth edition. Ch 2
-- **Reading:** Friese, Susanne. "How to Make the Best of Codes in ATLAS.ti." *ATLAS.ti*. https://atlasti.com/2017/03/16/make-best-codes-atlas-ti/
+- **Reading:** Friese, Susanne. ["How to Make the Best of Codes in ATLAS.ti"](https://atlasti.com/2017/03/16/make-best-codes-atlas-ti/). *ATLAS.ti*
 - **Due: Dissertation Pre-Proposal**
 
 ### Week 8 (October 7): Writing Workshop - Methods Section
@@ -150,14 +150,14 @@ Students will need access to a reliable internet connection and computer for acc
 - Addressing potential limitations
 - Peer feedback on methods drafts
 - **Reading:** Foss, Chapter 8
-- **Reading:** Berge, PS. AntConc: THE MOVIE. https://www.youtube.com/watch?v=c3KUqUnOY_E
-- **Reading:** Video Tutorial 101: Qualitative & Mixed Methods Research Using Dedoose https://www.youtube.com/watch?v=NP8K7z0MSiw
+- **Reading:** Berge, PS. [AntConc: THE MOVIE](https://www.youtube.com/watch?v=c3KUqUnOY_E)
+- **Reading:** [Video Tutorial 101: Qualitative & Mixed Methods Research Using Dedoose](https://www.youtube.com/watch?v=NP8K7z0MSiw)
 
 ### Week 9 (October 14): Mid-Semester Check-in
 - Individual conferences with instructor
 - Progress assessment and goal adjustment
 - **Reading:** Foss, Chapter 9
-- **Reading:** Hira Javaid, TheOxfordPhD. PhD Research Project Plan | How to Plan Your PhD Timeline, Stay Organized and Productive! https://www.youtube.com/watch?v=7xleRUJuXBU
+- **Reading:** Hira Javaid, TheOxfordPhD. [PhD Research Project Plan | How to Plan Your PhD Timeline, Stay Organized and Productive!](https://www.youtube.com/watch?v=7xleRUJuXBU)
 - **Reading:** Miller, Alison B. *Finish Your Dissertation Once and for All!* Ch 4 and 5
 - **Due: Methods Section**
 
@@ -167,21 +167,21 @@ Students will need access to a reliable internet connection and computer for acc
 - Conference presentations and academic networking
 - **Reading:** Foss, Chapter 10
 - **Reading:** Kelsky, Karen. *The Professor Is In: The Essential Guide To Turning Your Ph.D. Into a Job.* Ch 51 and 52 (PDF)
-- **Reading:** Bentley, Lisa Patrick. "Grant-Writing Tips for Graduate Students." *The Chronicle of Higher Education*. https://www.chronicle.com/article/Grant-Writing-Tips-for/125301
+- **Reading:** Bentley, Lisa Patrick. ["Grant-Writing Tips for Graduate Students"](https://www.chronicle.com/article/Grant-Writing-Tips-for/125301). *The Chronicle of Higher Education*
 
 ### Week 11 (October 28): Literature Review Workshop
 - Synthesizing complex arguments
 - Identifying theoretical frameworks
 - Peer review sessions
 - **Reading:** Foss, Chapter 11
-- **Reading:** Carlson, Maria. "Some Frank Advice on Submitting an Individual Research Grant Proposal in the Humanities." *KU Department of Slavic Languages & Literatures*. https://kuscholarworks.ku.edu/bitstream/handle/1808/4437/GrantHandout_mcarlson.pdf
+- **Reading:** Carlson, Maria. ["Some Frank Advice on Submitting an Individual Research Grant Proposal in the Humanities"](https://kuscholarworks.ku.edu/bitstream/handle/1808/4437/GrantHandout_mcarlson.pdf). *KU Department of Slavic Languages & Literatures*
 
 ### Week 12 (November 4): Presentation Skills
 - Preparing effective academic presentations
 - Visual aids and presentation technology
 - **Reading:** Foss, Chapter 12
-- **Reading:** Fiesler, Casey. Dissertation Proposal Tips! | How to Write a Thesis Proposal. https://www.youtube.com/watch?v=SYQ4wrwyNQA
-- **Reading:** Leonard, Leslie. "Producing a Finished Prospectus." *Inside Higher Ed*. https://www.insidehighered.com/blogs/gradhacker/producing-finished-prospectus
+- **Reading:** Fiesler, Casey. [Dissertation Proposal Tips! | How to Write a Thesis Proposal](https://www.youtube.com/watch?v=SYQ4wrwyNQA)
+- **Reading:** Leonard, Leslie. ["Producing a Finished Prospectus"](https://www.insidehighered.com/blogs/gradhacker/producing-finished-prospectus). *Inside Higher Ed*
 - **Due: Literature Review**
 
 ### Week 13 (November 11): Final Preparation for Presentations
@@ -190,13 +190,13 @@ Students will need access to a reliable internet connection and computer for acc
 - Q&A preparation strategies
 - **Reading:** Foss, Chapter 13
 - **Reading:** Miller, Alison B. *Finish Your Dissertation Once and for All!* Ch 6
-- **Reading:** MacPhail, Theresa. "The No-Fail Secret to Writing a Dissertation." *ChronicleVitae*. https://chroniclevitae.com/news/370-the-no-fail-secret-to-writing-a-dissertation
+- **Reading:** MacPhail, Theresa. ["The No-Fail Secret to Writing a Dissertation"](https://chroniclevitae.com/news/370-the-no-fail-secret-to-writing-a-dissertation). *ChronicleVitae*
 
 ### Week 14 (November 18): Prospectus Presentations
 - Student prospectus presentations
 - Peer feedback and discussion
 - Professional presentation practice
-- **Reading:** Rockquemore, Kerry Ann. "Advice for Graduate Students Having Difficulty Finishing Their Dissertations." https://www.insidehighered.com/advice/2016/08/03/advice-graduate-students-having-difficulty-finishing-their-dissertations-essay
+- **Reading:** Rockquemore, Kerry Ann. ["Advice for Graduate Students Having Difficulty Finishing Their Dissertations"](https://www.insidehighered.com/advice/2016/08/03/advice-graduate-students-having-difficulty-finishing-their-dissertations-essay)
 
 ### Week 15 (November 25): Prospectus Presentations (continued)
 - Student prospectus presentations
