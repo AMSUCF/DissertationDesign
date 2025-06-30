@@ -84,7 +84,7 @@ Additional readings will be provided through Webcourses and will vary based on s
 | 15 | **Methods Section** - Students will write a draft of the methods section of their prospectus, clearly articulating the method, data, and analysis. | October 14 |
 | 15 | **Literature Review** - Students will submit a literature review that synthesizes the sources on their custom reading list. | November 4 |
 | 20 | **Prospectus Presentation** - Students will present their dissertation prospectus to the class, receiving feedback from peers and instructor. | November 18-25 |
-| 20 | **Short Prospectus Draft** - Students will submit a complete draft of their dissertation prospectus, incorporating all previous assignments and feedback into a cohesive document. | December 5 |
+| 20 | **Short Prospectus Draft** - Students will submit a short draft of their dissertation prospectus, incorporating updated versions of their previous assignments and feedback into a cohesive document. | December 5 |
 
 **Total: 100 points**
 
