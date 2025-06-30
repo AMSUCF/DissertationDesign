@@ -1,5 +1,3 @@
-# ENG 6005: Dissertation Design in Texts & Technology
-
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu
 - **Office:** Trevor Colbourn Hall Room 236
@@ -7,6 +5,32 @@
 - **Class Time:** Tuesdays 6:00 - 7:50 PM
 - **Location:** Trevor Colbourn Hall Room 211
 - **Credits:** 3 Units
+---
+
+- [Course Description](#course-description)
+- [Course Objectives](#course-objectives)
+- [Materials and Texts](#materials-and-texts)
+  - [Required Text](#required-text)
+  - [Recommended Texts](#recommended-texts)
+- [Evaluation and Grading](#evaluation-and-grading)
+- [Course Structure](#course-structure)
+- [Weekly Schedule](#weekly-schedule)
+  - [Week 1 (August 19): Introduction and Course Overview](#week-1-august-19-introduction-and-course-overview)
+  - [Week 2 (August 26): Finding Your Research Question](#week-2-august-26-finding-your-research-question)
+  - [Week 3 (September 2): Research Methods Review](#week-3-september-2-research-methods-review)
+  - [Week 4 (September 9): Project Management and Organization](#week-4-september-9-project-management-and-organization)
+  - [Week 5 (September 16): Literature Review Fundamentals](#week-5-september-16-literature-review-fundamentals)
+  - [Week 6 (September 23): The Pre-Proposal Workshop](#week-6-september-23-the-pre-proposal-workshop)
+  - [Week 7 (September 30): Methodology Deep Dive](#week-7-september-30-methodology-deep-dive)
+  - [Week 8 (October 7): Writing Workshop - Methods Section](#week-8-october-7-writing-workshop---methods-section)
+  - [Week 9 (October 14): Mid-Semester Check-in](#week-9-october-14-mid-semester-check-in)
+  - [Week 10 (October 21): Funding and Professional Development](#week-10-october-21-funding-and-professional-development)
+  - [Week 11 (October 28): Literature Review Workshop](#week-11-october-28-literature-review-workshop)
+  - [Week 12 (November 4): Presentation Skills](#week-12-november-4-presentation-skills)
+  - [Week 13 (November 11): Final Preparation for Presentations](#week-13-november-11-final-preparation-for-presentations)
+  - [Week 14 (November 18): Prospectus Presentations](#week-14-november-18-prospectus-presentations)
+  - [Week 15 (November 25): Prospectus Presentations (continued)](#week-15-november-25-prospectus-presentations-continued)
+  - [Finals Week (December 5): Short Prospectus Draft Due](#finals-week-december-5-short-prospectus-draft-due)
 
 ---
 
