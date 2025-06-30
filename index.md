@@ -196,13 +196,13 @@ Students will need access to a reliable internet connection and computer for acc
 ### Week 14 (November 18): Prospectus Presentations
 - Student prospectus presentations
 - Peer feedback and discussion
-- Professional presentation practice
+- **Group One: Prospectus Presentation**
 - **Reading:** Rockquemore, Kerry Ann. ["Advice for Graduate Students Having Difficulty Finishing Their Dissertations"](https://www.insidehighered.com/advice/2016/08/03/advice-graduate-students-having-difficulty-finishing-their-dissertations-essay)
 
 ### Week 15 (November 25): Prospectus Presentations (continued)
 - Student prospectus presentations
 - Peer feedback and discussion
-- **Due: Prospectus Presentation**
+- **Group Two: Prospectus Presentation**
 - Next steps in the dissertation process
 
 ### Finals Week (December 5): Short Prospectus Draft Due
