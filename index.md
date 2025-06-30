@@ -58,9 +58,10 @@ Additional readings will be provided through Webcourses and will vary based on s
 | 15 | **Write Every Day** - Students will consistently write on their dissertation topic. This can take various forms: 7 days a week or 5, formal writing or freewriting, etc. This writing will be logged in a Google Sheet linked from Webcourses. | Ongoing |
 | 10 | **Primary Reading List** - In consultation with their adviser and me, students will compile a custom reading list that provides a deep grounding in the primary field of their dissertation. | September 23 |
 | 10 | **Dissertation Pre-Proposal** - Students will write a 1-2 page pre-proposal explaining the problem, research question, research design, categories of literature, significance, and chapter outline for their proposed dissertation. | September 30 |
-| 20 | **Methods Section** - Students will write a draft of the methods section of their prospectus, clearly articulating the method, data, and analysis. | October 14 |
-| 20 | **Literature Review** - Students will submit a literature review that synthesizes the sources on their custom reading list. | November 4 |
+| 10 | **Methods Section** - Students will write a draft of the methods section of their prospectus, clearly articulating the method, data, and analysis. | October 14 |
+| 10 | **Literature Review** - Students will submit a literature review that synthesizes the sources on their custom reading list. | November 4 |
 | 20 | **Prospectus Presentation** - Students will present their dissertation prospectus to the class, receiving feedback from peers and instructor. | November 18-25 |
+| 20 | **Short Prospectus Draft** - Students will submit a complete draft of their dissertation prospectus, incorporating all previous assignments and feedback into a cohesive document. | December 5 |
 
 **Total: 100 points**
 
@@ -204,7 +205,7 @@ Students will need access to a reliable internet connection and computer for acc
 - **Due: Prospectus Presentation**
 - Next steps in the dissertation process
 
+### Finals Week (December 5): Short Prospectus Draft Due
+- **Due: Short Prospectus Draft** - Complete draft of dissertation prospectus incorporating all previous assignments and feedback
+
 *Schedule subject to modification based on class needs and progress.*
-
----
-
