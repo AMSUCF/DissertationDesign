@@ -181,7 +181,7 @@ Students will need access to a reliable internet connection and computer for acc
 - Preparing effective academic presentations
 - Visual aids and presentation technology
 - **Reading:** Foss, Chapter 12
-- **Reading:** Fiesler, Casey. [Dissertation Proposal Tips! | How to Write a Thesis Proposal](https://www.youtube.com/watch?v=SYQ4wrwyNQA)
+- **Reading:** Fiesler, Casey. [Dissertation Proposal Tips! How to Write a Thesis Proposal](https://www.youtube.com/watch?v=SYQ4wrwyNQA)
 - **Reading:** Leonard, Leslie. ["Producing a Finished Prospectus"](https://www.insidehighered.com/blogs/gradhacker/producing-finished-prospectus). *Inside Higher Ed*
 - **Due: Literature Review**
 
