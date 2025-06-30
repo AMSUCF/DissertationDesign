@@ -191,7 +191,7 @@ Students will need access to a reliable internet connection and computer for acc
 - Q&A preparation strategies
 - **Reading:** Foss, Chapter 13
 - **Reading:** Miller, Alison B. *Finish Your Dissertation Once and for All!* Ch 6
-- **Reading:** MacPhail, Theresa. ["The No-Fail Secret to Writing a Dissertation"](https://chroniclevitae.com/news/370-the-no-fail-secret-to-writing-a-dissertation). *ChronicleVitae*
+- **Reading:** MacPhail, Theresa. ["The No-Fail Secret to Writing a Dissertation"](https://community.csusm.edu/mod/resource/view.php?id=75577). *ChronicleVitae*
 
 ### Week 14 (November 18): Prospectus Presentations
 - Student prospectus presentations
