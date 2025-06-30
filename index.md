@@ -6,7 +6,8 @@
 - **Location:** Trevor Colbourn Hall Room 211
 - **Credits:** 3 Units
 ---
-
+## Overview
+- [Overview](#overview)
 - [Course Description](#course-description)
 - [Course Objectives](#course-objectives)
 - [Materials and Texts](#materials-and-texts)
