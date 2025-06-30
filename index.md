@@ -157,7 +157,7 @@ Students will need access to a reliable internet connection and computer for acc
 - Individual conferences with instructor
 - Progress assessment and goal adjustment
 - **Reading:** Foss, Chapter 9
-- **Reading:** Hira Javaid, TheOxfordPhD. [PhD Research Project Plan | How to Plan Your PhD Timeline, Stay Organized and Productive!](https://www.youtube.com/watch?v=7xleRUJuXBU)
+- **Reading:** [PhD Research Project Plan: How to Plan Your PhD Timeline, Stay Organized and Productive!](https://www.youtube.com/watch?v=7xleRUJuXBU) (TheOxfordPhD)
 - **Reading:** Miller, Alison B. *Finish Your Dissertation Once and for All!* Ch 4 and 5
 - **Due: Methods Section**
 
