@@ -199,7 +199,7 @@ Students will need access to a reliable internet connection and computer for acc
 - Identifying theoretical frameworks
 - Peer review sessions
 - **Reading:** Foss, Chapter 11
-- **Reading:** Carlson, Maria. ["Some Frank Advice on Submitting an Individual Research Grant Proposal in the Humanities"](https://kuscholarworks.ku.edu/bitstream/handle/1808/4437/GrantHandout_mcarlson.pdf). *KU Department of Slavic Languages & Literatures*
+- **Reading:** UC Santa Barbara Library. ["Literature Review: The What, Why and How-to Guide"](https://guides.library.ucsb.edu/litreview/whatlitrev). *UCSB Library Research Guides*
 
 ### Week 12 (November 4): Presentation Skills
 - Preparing effective academic presentations
