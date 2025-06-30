@@ -5,7 +5,9 @@
 - **Class Time:** Tuesdays 6:00 - 7:50 PM
 - **Location:** Trevor Colbourn Hall Room 211
 - **Credits:** 3 Units
+
 ---
+
 ## Overview
 - [Overview](#overview)
 - [Course Description](#course-description)
