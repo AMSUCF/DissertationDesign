@@ -136,7 +136,8 @@ Students will need access to a reliable internet connection and computer for acc
 - Selecting appropriate methodologies for your project
 - Ethics in research
 - **Reading:** Foss, Chapter 3
-- **Reading:** Read about 3 articles or 60% of a book from your methods list
+- **Reading:** Underwood, Ted. ["The impact of language models on the humanities and vice versa."](https://www.nature.com/articles/s43588-025-00819-4). *Nature Computational Science* (2025)
+- **Reading:** Chae, Youngjin, and Thomas Davidson. ["Large Language Models for Text Classification: From Zero-Shot Learning to Instruction-Tuning"](https://journals.sagepub.com/doi/10.1177/00491241251325243). *Sociological Methods & Research* (2025)
 
 ### Week 4 (September 9): Project Management and Organization
 - Time management strategies for long-term projects
