@@ -101,14 +101,9 @@ There is no extra credit work available in this class. Grades will be available 
 
 ## Course Structure
 
-This course meets weekly on Tuesdays from 6:00-7:50 PM in Trevor Colbourn Hall Room 211. The course is structured as a seminar with a focus on collaborative learning and peer support. Each class session will include:
+This course meets weekly on Tuesdays from 6:00-7:50 PM in Trevor Colbourn Hall Room 211. The course is structured as a mixed-mode seminar with a focus on developing your dissertation through iterative writing assignments. 
 
-- Discussion of assigned readings and their application to dissertation writing
-- Workshops on specific aspects of dissertation development
-- Peer feedback sessions on works in progress
-- Individual conferences with the instructor as needed
-
-Office hour assistance is available both through messages on Webcourses and in-person meetings during scheduled office hours (Tuesday 2:00-5:00 PM) in TCH 236. Students are encouraged to reach out early and often for support throughout the dissertation development process.
+Office hour assistance is available both through messages on Webcourses and in-person meetings during scheduled office hours (Tuesday 2:00-5:00 PM) in TCH 236. 
 
 Students will need access to a reliable internet connection and computer for accessing course materials, submitting assignments, and participating in online components of the course. All course materials will be available through Webcourses, and students should plan to check the site regularly for updates and assignment information.
 
