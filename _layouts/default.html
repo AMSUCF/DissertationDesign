@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+{% seo %}
+    {% include head-custom.html %}
+    
+    <style>
+      /* Animated typing header styles */
+      .hero-section {
+        background: linear-gradient(135deg, #2c3e50 0%, #34495e 50%, #2c3e50 100%);
+        background-attachment: fixed;
+        position: relative;
+        overflow: hidden;
+        padding: 3rem 0;
+        color: white;
+        text-align: center;
+        margin-bottom: 2rem;
+      }
+      
+      /* Floating academic elements background */
+      .hero-section::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-image: 
+          url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="50" font-size="30" fill="rgba(255,255,255,0.03)">📚</text></svg>'),
+          url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="50" font-size="25" fill="rgba(255,255,255,0.02)">✍️</text></svg>'),
+          url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="50" font-size="20" fill="rgba(255,255,255,0.03)">📖</text></svg>'),
+          url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="50" font-size="22" fill="rgba(255,255,255,0.02)">🎓</text></svg>');
+        background-size: 150px 150px, 200px 200px, 120px 120px, 180px 180px;
+        background-position: 0 0, 100px 100px, 200px 50px, 50px 150px;
+        animation: float 20s ease-in-out infinite;
+        pointer-events: none;
+      }
+      
+      @keyframes float {
+        0%, 100% { transform: translateX(0) translateY(0); }
+        25% { transform: translateX(20px) translateY(-10px); }
+        50% { transform: translateX(-15px) translateY(15px); }
+        75% { transform: translateX(10px) translateY(-5px); }
+      }
+      
+      .typewriter-container {
+        position: relative;
+        z-index: 2;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 0 1rem;
+      }
+      
+      .typewriter-title {
+        font-family: 'Courier Prime', 'Courier New', monospace;
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: #ecf0f1;
+        margin: 0;
+        min-height: 3.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        white-space: nowrap;
+        overflow: hidden;
+      }
+      
+      .typewriter-subtitle {
+        font-family: 'Courier Prime', 'Courier New', monospace;
+        font-size: 1.2rem;
+        color: #bdc3c7;
+        margin: 1rem 0 0 0;
+        min-height: 1.5rem;
+        white-space: nowrap;
+        overflow: hidden;
+      }
+      
+      .typed-text {
+        border-right: 3px solid #e74c3c;
+        animation: blink 1s infinite;
+      }
+      
+      @keyframes blink {
+        0%, 50% { border-color: #e74c3c; }
+        51%, 100% { border-color: transparent; }
+      }
+      
+      /* Responsive adjustments */
+      @media (max-width: 768px) {
+        .typewriter-title {
+          font-size: 1.8rem;
+          white-space: normal;
+          text-align: center;
+        }
+        
+        .typewriter-subtitle {
+          font-size: 1rem;
+          white-space: normal;
+          text-align: center;
+        }
+        
+        .hero-section {
+          padding: 2rem 0;
+        }
+      }
+      
+      /* Hide original header */
+      header h1, header h2 {
+        display: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="hero-section">
+      <div class="typewriter-container">
+        <h1 class="typewriter-title">
+          <span class="typed-text" id="typed-title"></span>
+        </h1>
+        <h2 class="typewriter-subtitle">
+          <span class="typed-text" id="typed-subtitle"></span>
+        </h2>
+      </div>
+    </div>
+
+    <div id="container">
+      <div class="inner">
+        <header>
+          <h1 style="display: none;">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+          <h2 style="display: none;">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        </header>
+        
+        <section id="downloads" class="clearfix">
+          {% if site.show_downloads %}
+          <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
+          <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
+          {% endif %}
+          {% if site.github.public %}
+            {% if site.github.is_project_page %}
+          <a href="{{ site.github.repository_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
+            {% else %}
+          <a href="{{ site.github.owner_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
+            {% endif %}
+          {% endif %}
+        </section>
+        
+        <hr>
+        
+        <section id="main_content">
+          {{ content }}
+        </section>
+
+        <footer>
+        {% if site.github.is_project_page %}
+          {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
+        {% endif %}
+          This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.
+        </footer>
+      </div>
+    </div>
+
+    <script>
+      // Typewriter effect
+      class TypeWriter {
+        constructor(textElement, words, wait = 3000) {
+          this.textElement = textElement;
+          this.words = words;
+          this.txt = '';
+          this.wordIndex = 0;
+          this.wait = parseInt(wait, 10);
+          this.type();
+          this.isDeleting = false;
+        }
+
+        type() {
+          const current = this.wordIndex % this.words.length;
+          const fullTxt = this.words[current];
+
+          if (this.isDeleting) {
+            this.txt = fullTxt.substring(0, this.txt.length - 1);
+          } else {
+            this.txt = fullTxt.substring(0, this.txt.length + 1);
+          }
+
+          this.textElement.innerHTML = this.txt;
+
+          let typeSpeed = 100;
+
+          if (this.isDeleting) {
+            typeSpeed /= 2;
+          }
+
+          if (!this.isDeleting && this.txt === fullTxt) {
+            typeSpeed = this.wait;
+            this.isDeleting = true;
+          } else if (this.isDeleting && this.txt === '') {
+            this.isDeleting = false;
+            this.wordIndex++;
+            typeSpeed = 500;
+          }
+
+          setTimeout(() => this.type(), typeSpeed);
+        }
+      }
+
+      // Initialize typing animation when DOM is loaded
+      document.addEventListener('DOMContentLoaded', function() {
+        const titleElement = document.getElementById('typed-title');
+        const subtitleElement = document.getElementById('typed-subtitle');
+        
+        // Get the title from the page, fallback to course title
+        const pageTitle = '{{ page.title | default: "ENG 6005: Dissertation Design in Texts & Technology" }}';
+        const pageSubtitle = '{{ page.description | default: "Fall 2025 • Dr. Anastasia Salter" }}';
+        
+        // Start title animation immediately
+        if (titleElement) {
+          new TypeWriter(titleElement, [pageTitle], 2000);
+        }
+        
+        // Start subtitle animation after a delay
+        setTimeout(() => {
+          if (subtitleElement) {
+            new TypeWriter(subtitleElement, [pageSubtitle], 3000);
+          }
+        }, pageTitle.length * 100 + 500);
+      });
+    </script>
+  </body>
+</html>
