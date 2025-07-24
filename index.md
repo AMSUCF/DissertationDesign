@@ -114,7 +114,7 @@ Students will need access to a reliable internet connection and computer for acc
 *Detailed schedule may be adjusted based on student needs and progress.*
 
 ### Week 1 (August 19): Introduction and Course Overview
-- Course introductions and expectations
+- [Course introductions and expectations](weekone.html)
 - What is a dissertation? Setting realistic goals
 - Introduction to dissertation writing as a process
 - **Reading:** Foss, Chapter 1
