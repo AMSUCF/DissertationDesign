@@ -14,7 +14,7 @@ A typical T&T prospectus defense presentation is 15-20 minutes: as at this stage
 <ul>
 <li>10-12 minute presentation (10 points)</li>
 <li>Well-organized visual aids (5 points)</li>
-<li>Presence and engagement with peers (5 points)
+<li>Presence and engagement with peers (5 points)</li>
 </ul>
 </div>
 
