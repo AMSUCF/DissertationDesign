@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+{% seo %}
+    {% include head-custom.html %}
+    
+    <style>
+      /* Assignment page specific styles */
+      .assignment-header {
+        background: linear-gradient(135deg, #34495e 0%, #2c3e50 50%, #34495e 100%);
+        color: white;
+        padding: 2rem 0;
+        margin-bottom: 2rem;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+      }
+      
+      .assignment-header::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-image: 
+          url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="50" font-size="25" fill="rgba(255,255,255,0.05)">📝</text></svg>'),
+          url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="50" font-size="20" fill="rgba(255,255,255,0.03)">📋</text></svg>');
+        background-size: 120px 120px, 80px 80px;
+        background-position: 0 0, 60px 60px;
+        animation: float 15s ease-in-out infinite;
+        pointer-events: none;
+      }
+      
+      @keyframes float {
+        0%, 100% { transform: translateX(0) translateY(0); }
+        50% { transform: translateX(10px) translateY(-10px); }
+      }
+      
+      .assignment-title {
+        font-family: 'Courier Prime', 'Courier New', monospace;
+        font-size: 2.2rem;
+        font-weight: bold;
+        margin: 0;
+        position: relative;
+        z-index: 2;
+      }
+      
+      .assignment-meta {
+        font-family: 'Courier Prime', 'Courier New', monospace;
+        font-size: 1.1rem;
+        margin-top: 0.5rem;
+        opacity: 0.9;
+        position: relative;
+        z-index: 2;
+      }
+      
+      .due-date {
+        background: rgba(231, 76, 60, 0.2);
+        padding: 0.3rem 0.8rem;
+        border-radius: 20px;
+        display: inline-block;
+        margin-top: 0.5rem;
+        border: 2px solid rgba(231, 76, 60, 0.4);
+      }
+      
+      .points {
+        background: rgba(46, 204, 113, 0.2);
+        padding: 0.3rem 0.8rem;
+        border-radius: 20px;
+        display: inline-block;
+        margin-left: 1rem;
+        border: 2px solid rgba(46, 204, 113, 0.4);
+      }
+      
+      .back-to-syllabus {
+        display: inline-block;
+        margin-bottom: 1rem;
+        padding: 0.5rem 1rem;
+        background: #3498db;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        font-family: 'Courier Prime', 'Courier New', monospace;
+        transition: background 0.3s ease;
+      }
+      
+      .back-to-syllabus:hover {
+        background: #2980b9;
+        color: white;
+        text-decoration: none;
+      }
+      
+      .assignment-content {
+        background: white;
+        padding: 2rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        margin-bottom: 2rem;
+      }
+      
+      .assignment-requirements {
+        background: #f8f9fa;
+        border-left: 4px solid #3498db;
+        padding: 1.5rem;
+        margin: 1.5rem 0;
+        border-radius: 0 5px 5px 0;
+      }
+      
+      .assignment-requirements h3 {
+        margin-top: 0;
+        color: #2c3e50;
+      }
+      
+      /* Responsive adjustments */
+      @media (max-width: 768px) {
+        .assignment-title {
+          font-size: 1.6rem;
+        }
+        
+        .assignment-meta {
+          font-size: 1rem;
+        }
+        
+        .points {
+          margin-left: 0;
+          margin-top: 0.5rem;
+          display: block;
+          text-align: center;
+        }
+        
+        .assignment-content {
+          padding: 1rem;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="assignment-header">
+      <div class="inner">
+        <h1 class="assignment-title">{{ page.title }}</h1>
+        <div class="assignment-meta">
+          <div class="due-date">Due: {{ page.due_date }}</div>
+          {% if page.points %}
+          <div class="points">{{ page.points }} Points</div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+    <div id="container">
+      <div class="inner">
+        <a href="{{ '/' | relative_url }}" class="back-to-syllabus">← Back to Course Syllabus</a>
+        
+        <div class="assignment-content">
+          {{ content }}
+        </div>
+
+        <footer>
+        {% if site.github.is_project_page %}
+          {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
+        {% endif %}
+          This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
