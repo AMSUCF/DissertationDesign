@@ -158,7 +158,7 @@ Students will need access to a reliable internet connection and computer for acc
 - **Reading:** Foss, Chapter 6
 - **Reading:** VanBuren, Emily. ["Path to the Prospectus"](https://www.insidehighered.com/blogs/gradhacker/path-prospectus). *Inside Higher Ed*
 - **Reading:** Emory University Library. ["General Guidelines for Dissertation Prospectus and Proposal"](https://guides.libraries.emory.edu/ld.php?content_id=66438671)
-- **Due: Primary Reading List**
+- **[📋 Due: Primary Reading List](primary-reading-list.html)**
 
 ### Week 7 (September 30): Methodology Deep Dive
 - Advanced methodological considerations
@@ -166,7 +166,7 @@ Students will need access to a reliable internet connection and computer for acc
 - **Reading:** Foss, Chapter 7
 - **Reading:** Saldaña, Johnny. *The Coding Manual for Qualitative Researchers.* Fourth edition. Ch 2
 - **Reading:** Friese, Susanne. ["How to Make the Best of Codes in ATLAS.ti"](https://atlasti.com/2017/03/16/make-best-codes-atlas-ti/). *ATLAS.ti*
-- **Due: Dissertation Pre-Proposal**
+- **[📝 Due: Dissertation Pre-Proposal](dissertation-pre-proposal.html)**
 
 ### Week 8 (October 7): Writing Workshop - Methods Section
 - Crafting clear methodological descriptions
@@ -182,7 +182,7 @@ Students will need access to a reliable internet connection and computer for acc
 - **Reading:** Foss, Chapter 9
 - **Reading:** [PhD Research Project Plan: How to Plan Your PhD Timeline, Stay Organized and Productive!](https://www.youtube.com/watch?v=7xleRUJuXBU) (TheOxfordPhD)
 - **Reading:** Miller, Alison B. *Finish Your Dissertation Once and for All!* Ch 4 and 5
-- **Due: Methods Section**
+- **[🔬 Due: Methods Section](methods-section.html)**
 
 ### Week 10 (October 21): Funding and Professional Development
 - Introduction to research funding opportunities
@@ -205,7 +205,7 @@ Students will need access to a reliable internet connection and computer for acc
 - **Reading:** Foss, Chapter 12
 - **Reading:** Fiesler, Casey. [Dissertation Proposal Tips! How to Write a Thesis Proposal](https://www.youtube.com/watch?v=SYQ4wrwyNQA)
 - **Reading:** Leonard, Leslie. ["Producing a Finished Prospectus"](https://www.insidehighered.com/blogs/gradhacker/producing-finished-prospectus). *Inside Higher Ed*
-- **Due: Literature Review**
+- **[📚 Due: Literature Review](literature-review.html)**
 
 ### Week 13 (November 11): Final Preparation for Presentations
 - Presentation rehearsals and feedback
@@ -218,16 +218,16 @@ Students will need access to a reliable internet connection and computer for acc
 ### Week 14 (November 18): Prospectus Presentations
 - Student prospectus presentations
 - Peer feedback and discussion
-- **Group One: Prospectus Presentation**
+- **[🎤 Group One: Prospectus Presentation](prospectus-presentation.html)**
 - **Reading:** Rockquemore, Kerry Ann. ["Advice for Graduate Students Having Difficulty Finishing Their Dissertations"](https://www.insidehighered.com/advice/2016/08/03/advice-graduate-students-having-difficulty-finishing-their-dissertations-essay)
 
 ### Week 15 (November 25): Prospectus Presentations (continued)
 - Student prospectus presentations
 - Peer feedback and discussion
-- **Group Two: Prospectus Presentation**
+- **[🎤 Group Two: Prospectus Presentation](prospectus-presentation.html)**
 - Next steps in the dissertation process
 
 ### Finals Week (December 5): Short Prospectus Draft Due
-- **Due: Short Prospectus Draft** - Complete draft of dissertation prospectus incorporating all previous assignments and feedback
+- **[📄 Due: Short Prospectus Draft](short-prospectus-draft.html)** - Complete draft of dissertation prospectus incorporating all previous assignments and feedback. Remember, no late work can be accepted without an arranged incomplete!
 
 *Schedule subject to modification based on class needs and progress.*
