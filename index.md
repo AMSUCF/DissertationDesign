@@ -114,9 +114,10 @@ Students will need access to a reliable internet connection and computer for acc
 *Detailed schedule may be adjusted based on student needs and progress.*
 
 ### Week 1 (August 19): Introduction and Course Overview
-- [Course introductions and expectations](weekone.html)
+- Course introductions and expectations
 - What is a dissertation? Setting realistic goals
 - Introduction to dissertation writing as a process
+- **Slides:** [Getting Started](weekone.html)
 - **Reading:** Foss, Chapter 1
 - **Reading:** Davis, Gordon B., Clyde A. Parker, and Detmar W. Straub. *Writing the Doctoral Dissertation: A Systematic Approach.* Third edition. Ch 2
 - **Due: Academic Activity Verification**
