@@ -125,6 +125,7 @@ Students will need access to a reliable internet connection and computer for acc
 - From coursework to original research
 - Identifying gaps in the literature
 - Refining your research focus
+- **Slides:** [Planning Your T&T Dissertation](weektwo.html)
 - **Reading:** Foss, Chapter 2
 - **Reading:** ["Narrowing the Field: Tips on Choosing Your Topic"](https://humcwl.sfsu.edu/narrowing-field-tips-choosing-your-topic)
 

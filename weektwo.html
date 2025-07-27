@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What is a Texts & Technology Dissertation?</title>
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/theme/white.css">
+    
+    <style>
+        /* Custom styling to match the main site */
+        :root {
+            --main-color: #2c3e50;
+            --accent-color: #3498db;
+            --light-bg: #ecf0f1;
+            --highlight-bg: #e8f4fd;
+            --border-color: #bdc3c7;
+        }
+        
+        .reveal {
+            font-family: 'Courier Prime', 'Courier New', monospace, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        }
+        
+        .reveal .slides section {
+            background: white;
+            color: var(--main-color);
+            text-align: left;
+            height: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            overflow: hidden;
+        }
+        
+        .reveal h1, .reveal h2, .reveal h3 {
+            color: var(--main-color);
+            font-family: 'Courier Prime', 'Courier New', monospace;
+            font-weight: bold;
+            margin-bottom: 0.2em;
+            margin-top: 0;
+            text-transform: none;
+            line-height: 1.1;
+        }
+        
+        .reveal h1 {
+            font-size: 1.6em;
+            text-align: center;
+        }
+        
+        .reveal h2 {
+            font-size: 1.1em;
+            border-bottom: 3px solid var(--accent-color);
+            padding-bottom: 0.2em;
+        }
+        
+        .reveal h3 {
+            font-size: 0.9em;
+            margin-bottom: 0.2em;
+        }
+        
+        .reveal .title-slide {
+            text-align: center;
+            background: linear-gradient(135deg, var(--main-color) 0%, #34495e 50%, var(--main-color) 100%) !important;
+            color: white !important;
+            position: relative;
+            overflow: hidden;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .reveal .title-slide::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: 
+                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="50" font-size="30" fill="rgba(255,255,255,0.03)">📚</text></svg>'),
+                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="50" font-size="25" fill="rgba(255,255,255,0.02)">✍️</text></svg>'),
+                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="50" font-size="20" fill="rgba(255,255,255,0.03)">📖</text></svg>');
+            background-size: 150px 150px, 200px 200px, 120px 120px;
+            background-position: 0 0, 100px 100px, 200px 50px;
+            animation: float 20s ease-in-out infinite;
+            pointer-events: none;
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translateX(0) translateY(0); }
+            25% { transform: translateX(20px) translateY(-10px); }
+            50% { transform: translateX(-15px) translateY(15px); }
+            75% { transform: translateX(10px) translateY(-5px); }
+        }
+        
+        .reveal .title-slide h1,
+        .reveal .title-slide h2,
+        .reveal .title-slide h3,
+        .reveal .title-slide p {
+            color: white !important;
+            position: relative;
+            z-index: 2;
+            margin: 0.2em 0;
+        }
+        
+        .reveal .title-slide h1 {
+            font-size: 1.6em;
+            margin-bottom: 0.2em;
+        }
+        
+        .reveal .title-slide h2 {
+            font-size: 1.0em;
+            border-bottom: none;
+            margin-bottom: 0.3em;
+        }
+        
+        .reveal .title-slide h3 {
+            font-size: 0.9em;
+            border-bottom: none;
+            margin-bottom: 0.3em;
+        }
+        
+        .reveal .slide-title {
+            color: var(--accent-color);
+            margin-bottom: 0.2em;
+            text-align: center;
+            border-bottom: 3px solid var(--accent-color);
+            padding-bottom: 0.2em;
+        }
+        
+        .reveal .theme-slide h2 {
+            color: var(--accent-color);
+            margin-bottom: 0.15em;
+            border-bottom: 3px solid var(--accent-color);
+            padding-bottom: 0.15em;
+        }
+        
+        .highlight {
+            background: var(--highlight-bg);
+            border-left: 4px solid var(--accent-color);
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .contact-info {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 10px;
+            border-radius: 8px;
+            margin: 10px 0;
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            position: relative;
+            z-index: 2;
+        }
+        
+        .reveal .dissertation-list {
+            font-size: 0.5em;
+            text-align: left;
+            margin: 0 auto;
+            max-width: 95%;
+            flex-grow: 1;
+        }
+        
+        .reveal .dissertation-list li {
+            margin-bottom: 0.2em;
+            line-height: 1.1;
+        }
+        
+        .reveal ul {
+            margin: 0 0 0.4em 1em;
+            flex-grow: 1;
+        }
+        
+        .reveal li {
+            margin-bottom: 0.15em;
+            line-height: 1.1;
+            font-size: 0.7em;
+        }
+        
+        .reveal p {
+            margin-bottom: 0.3em;
+            line-height: 1.2;
+            font-size: 0.7em;
+        }
+        .reveal a {
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+        
+        .reveal a:hover {
+            color: var(--main-color);
+            text-decoration: underline;
+        }
+        
+        .reveal .author {
+            color: var(--accent-color);
+            font-weight: bold;
+        }
+        
+        .reveal .year {
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+        
+        .reveal blockquote {
+            font-style: italic;
+            background: var(--highlight-bg);
+            padding: 15px;
+            border-left: 4px solid var(--accent-color);
+            margin: 1em auto;
+            width: 90%;
+            border-radius: 4px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .reveal .highlight {
+            color: var(--accent-color);
+            font-weight: bold;
+        }
+        .reveal .stats {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 1em;
+            gap: 10px;
+        }
+        
+        .reveal .stat-box {
+            text-align: center;
+            padding: 0.8em;
+            background: var(--highlight-bg);
+            border-radius: 8px;
+            border: 2px solid var(--accent-color);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            flex: 1;
+        }
+        
+        .reveal .stat-number {
+            font-size: 1.5em;
+            color: var(--accent-color);
+            font-weight: bold;
+        }
+        
+        .reveal .methods-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 0.6em;
+            margin-top: 1em;
+            font-size: 0.6em;
+        }
+        
+        .reveal .method-item {
+            background: var(--highlight-bg);
+            padding: 0.3em;
+            border-radius: 5px;
+            text-align: center;
+            border: 1px solid var(--accent-color);
+            box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+        }
+        
+        /* Custom progress bar */
+        .reveal .progress {
+            background: rgba(44, 62, 80, 0.2);
+        }
+        
+        .reveal .progress span {
+            background: var(--accent-color);
+        }
+        
+        /* Custom controls */
+        .reveal .controls {
+            color: var(--accent-color);
+        }
+        
+        .reveal .controls .navigate-left,
+        .reveal .controls .navigate-right,
+        .reveal .controls .navigate-up,
+        .reveal .controls .navigate-down {
+            border-color: var(--accent-color);
+        }
+        
+        .reveal .controls .navigate-left.enabled:hover,
+        .reveal .controls .navigate-right.enabled:hover,
+        .reveal .controls .navigate-up.enabled:hover,
+        .reveal .controls .navigate-down.enabled:hover {
+            border-color: var(--main-color);
+        }
+        
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .reveal .dissertation-list {
+                font-size: 0.4em;
+                max-width: 98%;
+            }
+            
+            .reveal .methods-grid {
+                grid-template-columns: 1fr;
+                gap: 0.4em;
+                font-size: 0.5em;
+            }
+            
+            .reveal .stats {
+                flex-direction: column;
+                gap: 5px;
+            }
+            
+            .reveal h1 {
+                font-size: 1.3em;
+            }
+            
+            .reveal h2 {
+                font-size: 0.9em;
+            }
+            
+            .reveal h3 {
+                font-size: 0.8em;
+            }
+            
+            .reveal .slides section {
+                padding: 8px;
+            }
+            
+            .reveal li {
+                font-size: 0.6em;
+            }
+            
+            .reveal p {
+                font-size: 0.6em;
+            }
+            
+            .reveal .stat-number {
+                font-size: 1.2em;
+            }
+        }
+        
+        /* Ensure content scales to fit */
+        .reveal .slides section {
+            transform-origin: center center;
+        }
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+            
+            <!-- Title Slide -->
+            <section class="title-slide">
+                <div style="z-index: 2; position: relative;">
+                    <h1>📚 Planning Your T&T Dissertation</h1>
+                    <h3>Exploring Themes & Research Questions in previous UCF T&T Dissertations</h3>
+                </div>
+            </section>
+
+            <!-- Overview Slide -->
+            <section>
+                <h2 class="slide-title">Finding Your Place in the T&T Landscape</h2>
+                <div class="stats">
+                    <div class="stat-box">
+                        <div class="stat-number">9</div>
+                        <div>Thematic Areas<br>to Explore</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="stat-number">85+</div>
+                        <div>Examples to<br>Learn From</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="stat-number">∞</div>
+                        <div>Research<br>Possibilities</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Theme 1: Digital Privacy & Platform Studies -->
+            <section>
+                <h2 class="theme-slide">Theme 1: Digital Privacy, Platform Studies & Social Media</h2>
+                <p style="font-size: 0.7em; margin-bottom: 0.8em;">Examining how digital platforms shape communication, privacy, and social interaction</p>
+                <ul class="dissertation-list">
+                    <li><span class="author">ream Al-Ghamdi</span> <span class="year">(2025)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2024/93/" target="_blank">"Trust In Ephemeral Content In Social Media Platforms: A Mixed-Method Approach"</a></li>
+                    
+                    <li><span class="author">Bshaer Kameil Aharazi</span> <span class="year">(2024)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2024/2/" target="_blank">"Contextualizing TikTok Controversies: Critical Discourse Analysis"</a></li>
+                    
+                    <li><span class="author">Nicholas DeArmas</span> <span class="year">(2018)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/6182/" target="_blank">"Using Hashtags to Disambiguate Aboutness in Social Media Discourse"</a></li>
+                    
+                    <li><span class="author">Jacob Boccio</span> <span class="year">(2025)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2024/104/" target="_blank">"Netflix and the Platformization of Film and Television Content Discovery"</a></li>
+                </ul>
+            </section>
+
+            <!-- Theme 2: Gaming Studies -->
+            <section>
+                <h2 class="theme-slide">Theme 2: Gaming Studies & Interactive Media</h2>
+                <p style="font-size: 0.8em; margin-bottom: 1em;">Games as cultural texts: player experiences, design, and interactive entertainment</p>
+                <ul class="dissertation-list">
+                    <li><span class="author">Mark Kretzschmar</span> <span class="year">(2019)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/6363/" target="_blank">"Measuring Player Perceptions of Freedom and Control in Modded and Unmodded Skyrim"</a></li>
+                    
+                    <li><span class="author">Eric Murnane</span> <span class="year">(2018)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/5799/" target="_blank">"Emergent Narrative: Stories of Play, Playing with Stories"</a></li>
+                    
+                    <li><span class="author">Emily Johnson</span> <span class="year">(2015)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/1375/" target="_blank">"Making Waves, Mixing Colors, and Using Mirrors: Whole-Body Educational Games"</a></li>
+                    
+                    <li><span class="author">PS Berge</span> <span class="year">(2024)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2023/172/" target="_blank">"Unplayable Games: A Ludoarsonist's Manifesto on Trans Play and Possibility"</a></li>
+                </ul>
+            </section>
+
+            <!-- Theme 3: Digital Humanities -->
+            <section>
+                <h2 class="theme-slide">Theme 3: Digital Humanities & Archival Studies</h2>
+                <p style="font-size: 0.8em; margin-bottom: 1em;">Digital methods for preserving, analyzing, and presenting cultural heritage</p>
+                <ul class="dissertation-list">
+                    <li><span class="author">Elena Maria Rogalle</span> <span class="year">(2022)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/1277/" target="_blank">"Creating a Reverberating Beat: Digital Curation of Women Beat Writers"</a></li>
+                    
+                    <li><span class="author">Patricia Carlton</span> <span class="year">(2016)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/5110/" target="_blank">"From Ashes To Ashé: Memorializing Traumatic Events Through Digital Archives"</a></li>
+                    
+                    <li><span class="author">William Dorner</span> <span class="year">(2015)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/1421/" target="_blank">"Digital Markup in Preserving Texts: A Blank-Verse Translation of Virgil's Aeneid"</a></li>
+                    
+                    <li><span class="author">Robert Clarke</span> <span class="year">(2019)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/6768/" target="_blank">"Acoustic Ecology and Sound Mapping the UCF Main Campus"</a></li>
+                </ul>
+            </section>
+
+            <!-- Theme 4: Critical Code Studies -->
+            <section>
+                <h2 class="theme-slide">Theme 4: Critical Code Studies & Programming Philosophy</h2>
+                <p style="font-size: 0.8em; margin-bottom: 1em;">Software and code as cultural texts requiring critical analysis</p>
+                <ul class="dissertation-list">
+                    <li><span class="author">John Bork</span> <span class="year">(2015)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/1356/" target="_blank">"Critical Programming: Toward a Philosophy of Computing"</a></li>
+                    
+                    <li><span class="author">Daniel Cox</span> <span class="year">(2023)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/1848/" target="_blank">"Do You Want to Build with Snowman?: Positioning Twine Story Formats"</a></li>
+                    
+                    <li><span class="author">Hajer Albalawi</span> <span class="year">(2023)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/1870/" target="_blank">"Human Recognition Theory and Facial Recognition Technology"</a></li>
+                    
+                    <li><span class="author">Christopher Foley</span> <span class="year">(2024)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2023/135/" target="_blank">"Prompt Engineering: Toward a Rhetoric for Neural Network Augmented Authorship"</a></li>
+                </ul>
+            </section>
+
+            <!-- Theme 5: Digital Pedagogy -->
+            <section>
+                <h2 class="theme-slide">Theme 5: Digital Pedagogy & Educational Technology</h2>
+                <p style="font-size: 0.8em; margin-bottom: 1em;">How technology transforms teaching, learning, and educational environments</p>
+                <ul class="dissertation-list">
+                    <li><span class="author">Theresa Gindlesperger</span> <span class="year">(2022)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/1010/" target="_blank">"No More Pencils, No More Books: One-to-One Digital Device Implementation"</a></li>
+                    
+                    <li><span class="author">Said Jardaneh</span> <span class="year">(2016)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/4887/" target="_blank">"Building a Foundation for Goal-Attainment in Interdisciplinary Studies"</a></li>
+                    
+                    <li><span class="author">Paul Martin</span> <span class="year">(2019)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/6364/" target="_blank">"Moving Towards a Dialogic Pedagogy: Using Video Feedback as a Teaching Tool"</a></li>
+                    
+                    <li><span class="author">Irene L. Pynn</span> <span class="year">(2017)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/5652/" target="_blank">"School Has a Bad Storyline: Gamification in Educational Environments"</a></li>
+                </ul>
+            </section>
+
+            <!-- Theme 6: Social Justice -->
+            <section>
+                <h2 class="theme-slide">Theme 6: Social Justice, Identity & Technology</h2>
+                <p style="font-size: 0.8em; margin-bottom: 1em;">Technology's intersection with identity, equity, and social justice</p>
+                <ul class="dissertation-list">
+                    <li><span class="author">Anshare Antoine</span> <span class="year">(2022)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/1174/" target="_blank">"We're Not Just Well Suited, We are Ethically Obligated!"</a></li>
+                    
+                    <li><span class="author">Delia Garcia</span> <span class="year">(2019)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/6870/" target="_blank">"Latinx Student Success: Genres, Racialization, and Generic-Racial Interactions"</a></li>
+                    
+                    <li><span class="author">Cassandra Branham</span> <span class="year">(2016)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/5109/" target="_blank">"Wounded Warrior or War Hero? Resisting Common Tropes of the Veteran"</a></li>
+                    
+                    <li><span class="author">Christopher C. Odom</span> <span class="year">(2023)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/1626/" target="_blank">"Justice for George Floyd: The Tipping Point?"</a></li>
+                </ul>
+            </section>
+
+            <!-- Theme 7: Digital Rhetoric -->
+            <section>
+                <h2 class="theme-slide">Theme 7: Digital Rhetoric & Professional Communication</h2>
+                <p style="font-size: 0.8em; margin-bottom: 1em;">Digital transformation of professional communication and rhetorical strategies</p>
+                <ul class="dissertation-list">
+                    <li><span class="author">Connie Culler</span> <span class="year">(2015)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/1449/" target="_blank">"Good Works: The Topoi of Corporate Social Responsibility"</a></li>
+                    
+                    <li><span class="author">Jessica Campbell</span> <span class="year">(2020)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/189/" target="_blank">"Examining the Design and Usability of Telemedicine Communications"</a></li>
+                    
+                    <li><span class="author">Jennifer Miller</span> <span class="year">(2018)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/6022/" target="_blank">"Digital Citizenship Tools for Cause-Based Campaigns"</a></li>
+                    
+                    <li><span class="author">Michael R. Powell</span> <span class="year">(2024)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2024/60/" target="_blank">"Empathy in Digital Healthcare"</a></li>
+                </ul>
+            </section>
+
+            <!-- Theme 8: Media History -->
+            <section>
+                <h2 class="theme-slide">Theme 8: Media History & Cultural Studies</h2>
+                <p style="font-size: 0.8em; margin-bottom: 1em;">Media evolution, cultural production, and historical transformation</p>
+                <ul class="dissertation-list">
+                    <li><span class="author">Rachel Braaten</span> <span class="year">(2022)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/981/" target="_blank">"The Nine Lives of Ula Stöckl: Recovering Germany's First Feminist Filmmaker"</a></li>
+                    
+                    <li><span class="author">Daniel Powell</span> <span class="year">(2017)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/5482/" target="_blank">"Digital Dissonance: Horror Cultures in the Age of Convergent Technologies"</a></li>
+                    
+                    <li><span class="author">Valerie Kasper</span> <span class="year">(2018)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/5798/" target="_blank">"The Resonance and Residue of the First African American Newspaper"</a></li>
+                    
+                    <li><span class="author">David Morton</span> <span class="year">(2019)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/6365/" target="_blank">"The Heralds of the Dawn: A History of Florida's Motion Picture Industry"</a></li>
+                </ul>
+            </section>
+
+            <!-- Theme 9: Accessibility -->
+            <section>
+                <h2 class="theme-slide">Theme 9: Accessibility & Inclusive Design</h2>
+                <p style="font-size: 0.8em; margin-bottom: 1em;">Making technology inclusive and accessible to diverse user populations</p>
+                <ul class="dissertation-list">
+                    <li><span class="author">Jesslyn Parrish</span> <span class="year">(2022)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/1065/" target="_blank">"Seeing the Unseen: Interactive Narrative for Understanding Invisible Disabilities"</a></li>
+                    
+                    <li><span class="author">Donald Merritt</span> <span class="year">(2015)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd/1153/" target="_blank">"User-Generated Interfaces and Disability in Virtual Environments"</a></li>
+                    
+                    <li><span class="author">Francine N. Sutton</span> <span class="year">(2024)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2023/132/" target="_blank">"An Exploration of mHealth Applications Usage Among Older Adults"</a></li>
+                    
+                    <li><span class="author">Amy Vanschaik</span> <span class="year">(2021)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/780/" target="_blank">"Signals as Symbols: Applying Normalization of Deviance to User-Centered Design"</a></li>
+                </ul>
+            </section>
+
+            <!-- Emerging Theme: Meme Studies -->
+            <section>
+                <h2 class="theme-slide">Emerging Theme: Meme Studies & Digital Culture</h2>
+                <p style="font-size: 0.8em; margin-bottom: 1em;">Internet memes as sites of meaning-making and communication</p>
+                <ul class="dissertation-list">
+                    <li><span class="author">Tatyana Claytor</span> <span class="year">(2023)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/1849/" target="_blank">"Studying Memes During Covid Lockdown"</a></li>
+                    
+                    <li><span class="author">Emily Tarvin</span> <span class="year">(2021)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/771/" target="_blank">"From Screen to Shining Screen: YouTube as a Democratic Platform"</a></li>
+                    
+                    <li><span class="author">Kendra Gilbertson</span> <span class="year">(2023)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/1823/" target="_blank">"It is in our DNA: Athlete Activism and Social Media During the 2020 WNBA Season"</a></li>
+                    
+                    <li><span class="author">Rachel Winter</span> <span class="year">(2021)</span><br>
+                    <a href="https://stars.library.ucf.edu/etd2020/585/" target="_blank">"Political Fandom and Social Media: The Texas 2018 Senate Race"</a></li>
+                </ul>
+            </section>
+
+            <!-- Methodological Innovation Slide -->
+            <section>
+                <h2 class="slide-title">Methods You Might Use</h2>
+                <p>We'll talk more about methods when we get to project design, but here's a few at work in these dissertations:</p>
+                <div class="methods-grid">
+                    <div class="method-item">Critical Code Studies</div>
+                    <div class="method-item">Mixed-Methods Digital Ethnography</div>
+                    <div class="method-item">Computational Text Analysis</div>
+                    <div class="method-item">Digital Archival Creation</div>
+                    <div class="method-item">Autoethnographic Game Design</div>
+                    <div class="method-item">Visual Rhetoric Analysis</div>
+                    <div class="method-item">Topic Modeling</div>
+                    <div class="method-item">Critical Discourse Analysis</div>
+                </div>
+            </section>
+
+            <!-- Assignment Slide -->
+            <section>
+                <h2 class="slide-title">📝 Group Exercise</h2>
+                <div class="highlight">
+                    <h3 style="margin-top: 0; color: var(--main-color);">Explore & Share Back</h3>
+                </div>
+                <div style="text-align: left; max-width: 90%; margin: 0 auto;">
+                    <p><strong>Step 1:</strong> 🎯 <span class="highlight">Pick a theme</span> that your pair feels connected with </p>
+                    <p><strong>Step 2:</strong> 📚 <span class="highlight">Choose one dissertation</span> from that theme to examine together</p>
+                    <p><strong>Step 3:</strong> 🔍 <span class="highlight">Find the research questions</span> in the document - look in:</p>
+                    <ul style="margin-left: 2em; font-size: 0.9em;">
+                        <li>The abstract</li>
+                        <li>Introduction chapter</li>
+                        <li>Statement of the problem section</li>
+                    </ul>
+                    <p><strong>Share back:</strong> How were the research questions articulated? Was there a discussion of how they changed throughout the dissertation process? How did the questions relate to the methods of the project?</p>
+                </div>
+                <p style="margin-top: 2em; font-size: 0.8em; text-align: center;">
+                    <a href="https://stars.library.ucf.edu/tandtthesesdissertations/" target="_blank">
+                        Find a model: T&T Dissertation Collection →
+                    </a>
+                </p>
+            </section>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/reveal.js"></script>
+    <script>
+        Reveal.initialize({
+            hash: true,
+            controls: true,
+            progress: true,
+            keyboard: true,
+            overview: true,
+            transition: 'slide',
+            transitionSpeed: 'default',
+            backgroundTransition: 'fade',
+            
+            // More options
+            width: 1024,
+            height: 768,
+            margin: 0.04,
+            minScale: 0.2,
+            maxScale: 2.0,
+            
+            // Enable auto-scaling
+            center: true,
+            
+            // Navigation configuration
+            navigationMode: 'default',
+            
+            // Keyboard bindings
+            keyboard: {
+                13: 'next', // go to next slide when ENTER is pressed
+                27: () => {
+                    if (Reveal.isOverview()) {
+                        Reveal.toggleOverview();
+                    }
+                }, // toggle overview when ESC is pressed
+                32: 'next' // go to next slide when SPACE is pressed
+            }
+        });
+        
+        // Custom keyboard shortcuts
+        document.addEventListener('keydown', function(event) {
+            // Prevent space from scrolling the page
+            if (event.code === 'Space') {
+                event.preventDefault();
+            }
+        });
+    </script>
+</body>
+</html>
