@@ -64,12 +64,12 @@ In this course, students will:
 
 ### Required Text
 
-Foss, Sonja K. *Destination Dissertation: A Traveler's Guide to a Done Dissertation.* Third edition. Lanham: Rowman & Littlefield Publishers, 2025.
+Foss, Sonja K. *Destination Dissertation: A Traveler's Guide to a Done Dissertation.* Third edition. Lanham: Rowman & Littlefield Publishers, 2025. [Available through UCF as an ebook - 3 users at a time](https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=nlebk&AN=4140576&authtype=shib&site=ehost-live&scope=site&custid=current&groupid=main&authtype=shib)
 
 ### Recommended Texts
 
 - Belcher, Wendy Laura. *Writing Your Journal Article in Twelve Weeks, Second Edition: A Guide to Academic Publishing Success.* Second edition. Chicago ; London: University of Chicago Press, 2019.
-- Single, Peg Boyle. *Demystifying Dissertation Writing: A Streamlined Process from Choice of Topic to Final Text.* Stylus Publishing, LLC, 2009.
+- Single, Peg Boyle. *Demystifying Dissertation Writing: A Streamlined Process from Choice of Topic to Final Text.* Stylus Publishing, LLC, 2009. 
 - Jensen, Joli. *Write No Matter What: Advice for Academics.* University of Chicago Press, 2017.
 - Saldaña, Johnny. *The Coding Manual for Qualitative Researchers.* Fourth edition. Thousand Oaks, California: SAGE Publications Ltd, 2021.
 
