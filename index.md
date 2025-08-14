@@ -28,9 +28,9 @@
   - [Week 8 (October 7): Writing Workshop - Methods Section](#week-8-october-7-writing-workshop---methods-section)
   - [Week 9 (October 14): Mid-Semester Check-in](#week-9-october-14-mid-semester-check-in)
   - [Week 10 (October 21): Funding and Professional Development](#week-10-october-21-funding-and-professional-development)
-  - [Week 11 (October 28): Literature Review Workshop](#week-11-october-28-literature-review-workshop)
-  - [Week 12 (November 4): Presentation Skills](#week-12-november-4-presentation-skills)
-  - [Week 13 (November 11): Final Preparation for Presentations](#week-13-november-11-final-preparation-for-presentations)
+  - [Week 11 (October 28): Presentation Skills](#week-11-october-28-presentation-skills)
+  - [Week 12 (November 4): Final Preparation for Presentations](#week-12-november-4-final-preparation-for-presentations)
+  - [Week 13 (November 11): No Class - Veteran's Day](#week-13-november-11-no-class---veterans-day)
   - [Week 14 (November 18): Prospectus Presentations](#week-14-november-18-prospectus-presentations)
   - [Week 15 (November 25): Prospectus Presentations (continued)](#week-15-november-25-prospectus-presentations-continued)
   - [Finals Week (December 5): Short Prospectus Draft Due](#finals-week-december-5-short-prospectus-draft-due)
@@ -194,33 +194,30 @@ Students will need access to a reliable internet connection and computer for acc
 - **Reading:** Kelsky, Karen. *The Professor Is In: The Essential Guide To Turning Your Ph.D. Into a Job.* Ch 51 and 52 (PDF)
 - **Reading:** Bentley, Lisa Patrick. ["Grant-Writing Tips for Graduate Students"](https://www.chronicle.com/article/Grant-Writing-Tips-for/125301). *The Chronicle of Higher Education*
 
-### Week 11 (October 28): Literature Review Workshop
-- Synthesizing complex arguments
-- Identifying theoretical frameworks
-- Peer review sessions
-- **Reading:** Foss, Chapter 11
-- **Reading:** UC Santa Barbara Library. ["Literature Review: The What, Why and How-to Guide"](https://guides.library.ucsb.edu/litreview/whatlitrev). *UCSB Library Research Guides*
-
-### Week 12 (November 4): Presentation Skills
+### Week 11 (October 28): Presentation Skills
 - Preparing effective academic presentations
 - Visual aids and presentation technology
-- **Reading:** Foss, Chapter 12
+- **Reading:** Foss, Chapter 11
 - **Reading:** Fiesler, Casey. [Dissertation Proposal Tips! How to Write a Thesis Proposal](https://www.youtube.com/watch?v=SYQ4wrwyNQA)
 - **Reading:** Leonard, Leslie. ["Producing a Finished Prospectus"](https://www.insidehighered.com/blogs/gradhacker/producing-finished-prospectus). *Inside Higher Ed*
-- **[📚 Due: Literature Review](literature-review.html)**
 
-### Week 13 (November 11): Final Preparation for Presentations
+### Week 12 (November 4): Final Preparation for Presentations
 - Presentation rehearsals and feedback
 - Final touches on prospectus materials
 - Q&A preparation strategies
-- **Reading:** Foss, Chapter 13
+- **Reading:** Foss, Chapter 12
 - **Reading:** Miller, Alison B. *Finish Your Dissertation Once and for All!* Ch 6
 - **Reading:** MacPhail, Theresa. ["The No-Fail Secret to Writing a Dissertation"](https://community.csusm.edu/mod/resource/view.php?id=75577). *ChronicleVitae*
+- **[📚 Due: Literature Review](literature-review.html)**
+
+### Week 13 (November 11): No Class - Veteran's Day
+- University Holiday - No class meeting
 
 ### Week 14 (November 18): Prospectus Presentations
 - Student prospectus presentations
 - Peer feedback and discussion
 - **[🎤 Group One: Prospectus Presentation](prospectus-presentation.html)**
+- **Reading:** Foss, Chapter 13
 - **Reading:** Rockquemore, Kerry Ann. ["Advice for Graduate Students Having Difficulty Finishing Their Dissertations"](https://www.insidehighered.com/advice/2016/08/03/advice-graduate-students-having-difficulty-finishing-their-dissertations-essay)
 
 ### Week 15 (November 25): Prospectus Presentations (continued)
