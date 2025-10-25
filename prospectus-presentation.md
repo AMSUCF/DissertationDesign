@@ -12,7 +12,7 @@ A typical T&T prospectus defense presentation is 15-20 minutes: as at this stage
 <div class="assignment-requirements">
 <h3>Requirements</h3>
 <ul>
-<li>10-12 minute presentation (10 points)</li>
+<li>8-10 minute presentation (10 points)</li>
 <li>Well-organized visual aids (5 points)</li>
 <li>Presence and engagement with peers (5 points)</li>
 </ul>
@@ -69,14 +69,14 @@ Group assignments will be determined in class based on student preferences and s
 
 ## Q & A
 
-All students are expected to perform the role of the committee when asking questions:
+Assigned students are expected to perform the role of the committee when asking questions:
 - Think about challenges of scope, particularly given the limited time of a dissertation
 - Be considerate when raising sources, methods, and ideas from your own exerptise - everyone brings different backgrounds to their work
 - Remember to focus your questions on helping your peers clarify the projects they want to do, even if that's not the project you would do!
 
 ## Preparation Tips
 
-- Practice your presentation multiple times to stay within the 10-12 minute limit
+- Practice your presentation multiple times to stay within the 8-10 minute limit
 - Time each section to ensure proper balance (methodology should be longest)
 - Prepare for potential questions, especially about your research methods
 - Focus on clear, concise explanations rather than comprehensive coverage
